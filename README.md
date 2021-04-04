@@ -12,7 +12,7 @@
 
 <img alt="Custom badge" widht="50" height="20" src="https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico">[![DevTO Badge](https://img.shields.io/badge/-dev.to-000?style=flat-square&url=https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico)](https://dev.to/ewertonjordao) 
 [![MVP Badge](https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003566)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ewertonjordao)](www.linkedin.com/in/ewertonjordao)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonjordao)](https://www.linkedin.com/in/ewertonjordao)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/ewertonjordao)](https://twitter.com/ewertonjordao)
 [![Podcast Badge](https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white&link=https://devshow.com.br)](https://devshow.com.br)
 
