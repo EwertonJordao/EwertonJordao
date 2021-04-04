@@ -5,7 +5,7 @@
 - 🔭 I’m working as **SRE**, but first I'm love tecnologies for help 😎.
 - 🏆 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure** <img  alt="Custom badge" widht="50" height="20"  src="https://portal.azure.com/favicon.ico" style="align-items: center;justify-content: center">.
 - 🗣 I’m an enthusiast of **Cloud☁**, **PowerShell**.
-- 🌱
+- 🌱 I'm learn now Rust.
 - 🗣 I'm Speaker and Organizer of [.Net São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/), [DevOps Professionals](https://www.meetup.com/pt-BR/DevOps-Professionals/) and [DevShow Podcast](https://devshow.com.br)
 
 ### Follow me:
