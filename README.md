@@ -18,7 +18,7 @@
 
 <div style="box-sizing: border-box; display: flex; align-items: center; justify-content: center ; width: 600px; height: 400px; margin: 10px">
 <div>
-  <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api?username=ewertonjordao&show_icons=true&count_private=false&theme=tokyonight" />
+  <img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=ewertonjordao&show_icons=true&count_private=false&theme=tokyonight" />
 </div>
 <div>  
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonjordao&layout=compact&theme=tokyonight" />
