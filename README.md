@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hello friends 
 
-<!--
-**EwertonJordao/EwertonJordao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🔭 I’m working as **SRE**, but first I'm love tecnologies for help 😎.
+- 🏆 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure** <img  alt="Custom badge" widht="50" height="20"  src="https://portal.azure.com/favicon.ico" style="align-items: center;justify-content: center">.
+- 🗣 I’m an enthusiast of **Cloud☁**, **PowerShell**.
+- 🌱
+- 🗣 I'm Speaker and Organizer of [.Net São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/), [DevOps Professionals](https://www.meetup.com/pt-BR/DevOps-Professionals/) and [DevShow Podcast](https://devshow.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me:
+
+<img alt="Custom badge" widht="50" height="20" src="https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico">[![DevTO Badge](https://img.shields.io/badge/-dev.to-000?style=flat-square&url=https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico)](https://dev.to/ewertonjordao) 
+[![MVP Badge](https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003566)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ewertonjordao)](www.linkedin.com/in/ewertonjordao)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/ewertonjordao)](https://twitter.com/ewertonjordao)
+[![Podcast Badge](https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white&link=https://devshow.com.br)](https://devshow.com.br)
+
+<div style="box-sizing: border-box; display: flex; align-items: center; justify-content: center ; width: 600px; height: 400px; margin: 10px">
+<div>
+  <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api?username=ewertonjordao&show_icons=true&count_private=false&theme=tokyonight" />
+</div>
+<div>  
+  <img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonjordao&layout=compact&theme=tokyonight" />
+</div>
+</div>
