@@ -21,6 +21,6 @@
   <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api?username=ewertonjordao&show_icons=true&count_private=false&theme=tokyonight" />
 </div>
 <div>  
-  <img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonjordao&layout=compact&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonjordao&layout=compact&theme=tokyonight" />
 </div>
 </div>
