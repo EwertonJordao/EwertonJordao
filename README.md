@@ -3,7 +3,7 @@
 ## About me
 
 - 🔭 I’m working as **SRE**, but first I'm love tecnologies for help 😎.
-- 🏆 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure** <img  alt="Custom badge" widht="50" height="20"  src="https://portal.azure.com/favicon.ico" style="align-items: center;justify-content: center">.
+- 🏆 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure**.
 - 🗣 I’m an enthusiast of **Cloud☁**, **PowerShell**.
 - 🌱 I'm learn now Rust.
 - 🗣 I'm Speaker and Organizer of [.Net São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/), [DevOps Professionals](https://www.meetup.com/pt-BR/DevOps-Professionals/) and [DevShow Podcast](https://devshow.com.br)
@@ -21,6 +21,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ewertonjordao&show_icons=true&count_private=false&theme=tokyonight" />
 </div>
 <div>  
+  
   <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonjordao&layout=compact&theme=tokyonight" />
 </div>
 </div>
