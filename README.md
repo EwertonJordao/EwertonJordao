@@ -3,8 +3,9 @@
 ## About me
 
 - 🔭 I’m working as **SRE**, but first I'm love tecnologies for help 😎.
-- 🏆 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure**.
-- 🗣 I’m an enthusiast of **Cloud☁**, **PowerShell**.
+- 🏆x2 I’m Microsoft Most Valuable Professional ([MVP](https://mvp.microsoft.com)) in **Microsoft Azure**.
+- 🏆 I’m Calico Big Cats Ambassador ([Calico Big Cats Program](https://www.tigera.io/project-calico/calico-big-cats-ambassador-program/)).
+- 🗣 I’m an enthusiast of **Cloud☁**, **Cloud Native**, **PowerShell**.
 - 🌱 I'm learn now Rust.
 - 🗣 I'm Speaker and Organizer of [.Net São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/), [DevOps Professionals](https://www.meetup.com/pt-BR/DevOps-Professionals/) and [DevShow Podcast](https://devshow.com.br)
 
